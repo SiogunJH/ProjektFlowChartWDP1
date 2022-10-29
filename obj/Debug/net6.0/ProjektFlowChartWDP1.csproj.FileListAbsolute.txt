@@ -1,0 +1,15 @@
+E:\Studia\Projekty\ProjektFlowChartWDP1\bin\Debug\net6.0\ProjektFlowChartWDP1.exe
+E:\Studia\Projekty\ProjektFlowChartWDP1\bin\Debug\net6.0\ProjektFlowChartWDP1.deps.json
+E:\Studia\Projekty\ProjektFlowChartWDP1\bin\Debug\net6.0\ProjektFlowChartWDP1.runtimeconfig.json
+E:\Studia\Projekty\ProjektFlowChartWDP1\bin\Debug\net6.0\ProjektFlowChartWDP1.dll
+E:\Studia\Projekty\ProjektFlowChartWDP1\bin\Debug\net6.0\ref\ProjektFlowChartWDP1.dll
+E:\Studia\Projekty\ProjektFlowChartWDP1\bin\Debug\net6.0\ProjektFlowChartWDP1.pdb
+E:\Studia\Projekty\ProjektFlowChartWDP1\obj\Debug\net6.0\ProjektFlowChartWDP1.csproj.AssemblyReference.cache
+E:\Studia\Projekty\ProjektFlowChartWDP1\obj\Debug\net6.0\ProjektFlowChartWDP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\Projekty\ProjektFlowChartWDP1\obj\Debug\net6.0\ProjektFlowChartWDP1.AssemblyInfoInputs.cache
+E:\Studia\Projekty\ProjektFlowChartWDP1\obj\Debug\net6.0\ProjektFlowChartWDP1.AssemblyInfo.cs
+E:\Studia\Projekty\ProjektFlowChartWDP1\obj\Debug\net6.0\ProjektFlowChartWDP1.csproj.CoreCompileInputs.cache
+E:\Studia\Projekty\ProjektFlowChartWDP1\obj\Debug\net6.0\ProjektFlowChartWDP1.dll
+E:\Studia\Projekty\ProjektFlowChartWDP1\obj\Debug\net6.0\ref\ProjektFlowChartWDP1.dll
+E:\Studia\Projekty\ProjektFlowChartWDP1\obj\Debug\net6.0\ProjektFlowChartWDP1.pdb
+E:\Studia\Projekty\ProjektFlowChartWDP1\obj\Debug\net6.0\ProjektFlowChartWDP1.genruntimeconfig.cache
